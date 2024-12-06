@@ -2215,8 +2215,8 @@
           "type": "WIDGET",
           "widgetId": "widget_262",
           "bbox": {
-            "width": "256px",
-            "height": 705
+            "width": "334px",
+            "height": "914.00px"
           }
         }
       },
@@ -2278,7 +2278,13 @@
   "mainSizeMode": "LARGE",
   "theme": "themes/default/",
   "forBuilderAttributes": {
-    "lockLayout": false
+    "lockLayout": false,
+    "viewPortSize": {
+      "LARGE": {
+        "width": 1280,
+        "height": 800
+      }
+    }
   },
   "template": "a6ec22527cb44aa6bcd167208969b5fb",
   "widgets": {
@@ -5395,7 +5401,7 @@
       "sourceLabel": "Allen Fire GIS & AI Pilot"
     }
   },
-  "timestamp": 1733488844299,
+  "timestamp": 1733489959315,
   "utilities": {
     "utility_1": {
       "id": "utility_1",

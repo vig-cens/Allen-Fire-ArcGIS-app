@@ -1,0 +1,21 @@
+{
+  "name": "LM_custom_widgets",
+  "label": "AI chatbot",
+  "type": "widget",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "AI Chatbot widget",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": true,
+    "hasSettingPage": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  }
+}

@@ -54,7 +54,7 @@
         "8": {
           "type": "WIDGET",
           "bbox": {
-            "width": 49.86749999999999
+            "width": 47.897499999999994
           },
           "widgetId": "widget_5",
           "parent": "4"
@@ -62,7 +62,7 @@
         "21": {
           "type": "WIDGET",
           "bbox": {
-            "width": 30.039999999999996
+            "width": 20.539999999999996
           },
           "widgetId": "widget_89",
           "gridType": 3,
@@ -81,7 +81,7 @@
           "sectionId": "section_2",
           "type": "SECTION",
           "bbox": {
-            "width": 69.96000000000001
+            "width": 79.46000000000001
           },
           "gridType": 3,
           "parent": "24"
@@ -90,7 +90,7 @@
           "gridType": 0,
           "parent": "4",
           "bbox": {
-            "width": 30.084999999999997
+            "width": 25.985
           },
           "children": [
             "21",
@@ -102,7 +102,7 @@
           "gridType": 3,
           "parent": "4",
           "bbox": {
-            "width": 20.047499999999996
+            "width": 26.117499999999996
           },
           "widgetId": "widget_250"
         },
@@ -2544,7 +2544,6 @@
       "version": "1.16.0",
       "config": {
         "text": "<p><strong style=\"color: var(--org-header-color); font-size: 20px;\">﻿Weather Fusion AI     </strong><span style=\"color: var(--org-header-color); font-size: 12px;\">PILOT</span></p>",
-        "placeholder": "<p><span style=\"font-size: 20px;\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -2669,7 +2668,6 @@
       "version": "1.16.0",
       "config": {
         "text": "<p><strong style=\"font-size: 16px; color: var(--org-header-bg);\">Explore Map Layers</strong></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -2727,7 +2725,6 @@
       "version": "1.16.0",
       "config": {
         "text": "<p><strong style=\"font-size: 16px; color: var(--org-header-bg);\">Map Key</strong></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -2781,7 +2778,6 @@
       "version": "1.16.0",
       "config": {
         "text": "<p><strong style=\"font-size: 16px; color: var(--org-header-bg);\">﻿Assess Risk / Impact</strong></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -3412,8 +3408,7 @@
       "version": "1.16.0",
       "label": "Text 14",
       "config": {
-        "text": "<p><strong style=\"font-size: 15px;\">Schools: <exp data-uniqueid=\"b5d46b16_9b0f_ed0e_82cb_ca165e687e3a\" data-dsid=\"b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BOBJECTID%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BOBJECTID%7D%22%2C%22dataSourceId%22%3A%22b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3%22%2C%22jimuFieldName%22%3A%22OBJECTID%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({OBJECTID})﻿</span>﻿</exp>&nbsp;&nbsp;&nbsp;&nbsp;</strong></p><p><strong style=\"font-size: 15px;\">Students: <exp data-uniqueid=\"1c8269b8_f85d_c946_b3b2_c330fdccd929\" data-dsid=\"b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3\" data-expression=\"%7B%22name%22%3A%22SUM(%7BEnrollment%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22SUM%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BEnrollment%7D%22%2C%22dataSourceId%22%3A%22b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3%22%2C%22jimuFieldName%22%3A%22Enrollment%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿SUM({Enrollment})﻿﻿﻿﻿</span>﻿</exp>&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text"
+        "text": "<p><strong style=\"font-size: 15px;\">Schools: <exp data-uniqueid=\"b5d46b16_9b0f_ed0e_82cb_ca165e687e3a\" data-dsid=\"b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BOBJECTID%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BOBJECTID%7D%22%2C%22dataSourceId%22%3A%22b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3%22%2C%22jimuFieldName%22%3A%22OBJECTID%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿COUNT({OBJECTID})﻿</span>﻿</exp>&nbsp;&nbsp;&nbsp;&nbsp;</strong></p><p><strong style=\"font-size: 15px;\">Students: <exp data-uniqueid=\"1c8269b8_f85d_c946_b3b2_c330fdccd929\" data-dsid=\"b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3\" data-expression=\"%7B%22name%22%3A%22SUM(%7BEnrollment%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22SUM%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BEnrollment%7D%22%2C%22dataSourceId%22%3A%22b709a56cf93a49a0a16548625cfe51e1-1932172865f-layer-3%22%2C%22jimuFieldName%22%3A%22Enrollment%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿SUM({Enrollment})﻿﻿﻿﻿</span>﻿</exp>&nbsp;</strong></p>"
       },
       "id": "widget_192",
       "useDataSourcesEnabled": true,
@@ -3435,7 +3430,6 @@
       "label": "Text 15",
       "config": {
         "text": "<p><strong style=\"font-size: 15px;\">Parcels Selected: <exp data-uniqueid=\"a67bcf57_bbe5_2961_0cb6_389a929a397b\" data-dsid=\"b709a56cf93a49a0a16548625cfe51e1-1933fc55275-layer-40\" data-expression=\"%7B%22name%22%3A%22None%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BOBJECTID%7D%22%2C%22dataSourceId%22%3A%22b709a56cf93a49a0a16548625cfe51e1-1933fc55275-layer-40-selection%22%2C%22jimuFieldName%22%3A%22OBJECTID%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿None﻿﻿﻿</span>﻿</exp>&nbsp;&nbsp;&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -3458,7 +3452,6 @@
       "version": "1.16.0",
       "config": {
         "text": "<p style=\"text-align: center;\">﻿Scroll down for more.</p>",
-        "placeholder": "Cu ullum sententiae interpretaris eum, modus impetus ei cum, sit et veri possit volumus. Solum nulla oportere nam at. Ea causae maiorum pro, te mel dicam nominavi intellegat. Cum et nobis vocibus docendi. Ea nec lorem ridens eligendi.",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -5373,7 +5366,14 @@
     }
   ],
   "attributes": {
-    "portalUrl": "https://COFA.maps.arcgis.com"
+    "portalUrl": "https://COFA.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "rBmm8j9nCeUmy7gO",
+    "express": false,
+    "title": "Weather Fusion AI 1",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
   },
   "sharedThemeVariables": {
     "header": {
@@ -5395,7 +5395,7 @@
       "sourceLabel": "Allen Fire GIS & AI Pilot"
     }
   },
-  "timestamp": 1733462914349,
+  "timestamp": 1733488844299,
   "utilities": {
     "utility_1": {
       "id": "utility_1",
@@ -5497,5 +5497,6 @@
       "SMALL": "154"
     }
   },
-  "customTheme": {}
+  "customTheme": {},
+  "publishTimestamp": 1733488896788
 }

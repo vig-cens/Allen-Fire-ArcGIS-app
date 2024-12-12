@@ -5209,7 +5209,9 @@
       "label": "AI chatbot",
       "config": {
         "token": "9975590df2c5354a4eb2e2688bf6b9e09cf61f74",
-        "multi_model_id": "10"
+        "multi_model_id": "10",
+        "useMapWidgetId": "widget_5",
+        "modelId": "10"
       },
       "id": "widget_262"
     }
@@ -5400,7 +5402,7 @@
       "sourceLabel": "Allen Fire GIS & AI Pilot"
     }
   },
-  "timestamp": 1734015280250,
+  "timestamp": 1734016881690,
   "utilities": {
     "utility_1": {
       "id": "utility_1",

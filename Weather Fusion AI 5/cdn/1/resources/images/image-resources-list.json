@@ -1,0 +1,58 @@
+{
+  "1731556235627": {
+    "originalName": "Chatbot.png",
+    "fileName": "1731556235627.png",
+    "size": 60242,
+    "url": "${appResourceUrl}/images/widget_251/1731556235627.png",
+    "created": 1731556235627,
+    "resourcesPrefix": "images/widget_251",
+    "referredIds": [],
+    "originId": "1731556235627",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 416,
+    "originalHeight": 656
+  },
+  "1731556470895": {
+    "originalName": "Chatbot (1).png",
+    "fileName": "1731556470895.png",
+    "size": 63054,
+    "url": "${appResourceUrl}/images/widget_251/1731556470895.png",
+    "created": 1731556470895,
+    "resourcesPrefix": "images/widget_251",
+    "referredIds": [],
+    "originId": "1731556470895",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 416,
+    "originalHeight": 656
+  },
+  "1731559508531": {
+    "originalName": "White BG@2x.jpg",
+    "fileName": "1731559508531.jpg",
+    "size": 45135,
+    "url": "${appResourceUrl}/images/widget_261/1731559508531.jpg",
+    "created": 1731559508531,
+    "resourcesPrefix": "images/widget_261",
+    "referredIds": [],
+    "originId": "1731559508531",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 520,
+    "originalHeight": 162
+  },
+  "1731559599775": {
+    "originalName": "White BG Transparent@2x.png",
+    "fileName": "1731559599775.png",
+    "size": 8580,
+    "url": "${appResourceUrl}/images/widget_261/1731559599775.png",
+    "created": 1731559599775,
+    "resourcesPrefix": "images/widget_261",
+    "referredIds": [],
+    "originId": "1731559599775",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 347,
+    "originalHeight": 108
+  }
+}

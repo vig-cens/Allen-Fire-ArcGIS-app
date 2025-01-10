@@ -54,7 +54,7 @@
         "8": {
           "type": "WIDGET",
           "bbox": {
-            "width": 48.1575
+            "width": 49.86749999999999
           },
           "widgetId": "widget_5",
           "parent": "4"
@@ -62,7 +62,7 @@
         "21": {
           "type": "WIDGET",
           "bbox": {
-            "width": 25.249999999999996
+            "width": 30.039999999999996
           },
           "widgetId": "widget_89",
           "gridType": 3,
@@ -81,7 +81,7 @@
           "sectionId": "section_2",
           "type": "SECTION",
           "bbox": {
-            "width": 74.75000000000001
+            "width": 69.96000000000001
           },
           "gridType": 3,
           "parent": "24"
@@ -90,7 +90,7 @@
           "gridType": 0,
           "parent": "4",
           "bbox": {
-            "width": 24.994999999999997
+            "width": 30.084999999999997
           },
           "children": [
             "21",
@@ -102,7 +102,7 @@
           "gridType": 3,
           "parent": "4",
           "bbox": {
-            "width": 26.847499999999997
+            "width": 20.047499999999996
           },
           "widgetId": "widget_250"
         },
@@ -2215,8 +2215,8 @@
           "type": "WIDGET",
           "widgetId": "widget_262",
           "bbox": {
-            "width": "290px",
-            "height": "705.00px"
+            "width": "256px",
+            "height": 706
           },
           "setting": {
             "autoProps": {
@@ -5211,6 +5211,7 @@
       "config": {
         "token": "9975590df2c5354a4eb2e2688bf6b9e09cf61f74",
         "multi_model_id": "10",
+        "useMapWidgetId": "widget_5",
         "modelId": "10"
       },
       "id": "widget_262"
@@ -5402,7 +5403,7 @@
       "sourceLabel": "Allen Fire GIS & AI Pilot"
     }
   },
-  "timestamp": 1735306177940,
+  "timestamp": 1736509391750,
   "utilities": {
     "utility_1": {
       "id": "utility_1",
